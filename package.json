@@ -2,7 +2,7 @@
   "name": "goit-react-hw-03-phonebook",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://zoryanakuziv.github.io/goit-markup-hw-03",
+  "homepage": "https://zoryanakuziv.github.io/goit-react-hw-03-phonebook",
   "dependencies": {
     "@emotion/styled": "^11.6.0",
     "@testing-library/jest-dom": "^5.16.1",
